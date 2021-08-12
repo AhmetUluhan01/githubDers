@@ -1,4 +1,4 @@
 package deneme.pages;
 
-public class calisma {
+public class calisma2 {
 }
